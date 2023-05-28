@@ -11,18 +11,25 @@ Example:
 
 For use with:
 
-<SLIDE SWITCH PLATES>
+SLIDE SWITCH PLATES
+
   - Screw terminals https://www.aliexpress.com/item/4000091519786.html?spm=a2g0o.order_list.order_list_main.5.39bd1802vVYFzY
+  
   - SS13D07 https://www.aliexpress.com/item/32883400373.html?spm=a2g0o.order_list.order_list_main.15.39bd1802vVYFzY
+  
   - SS12D07 https://www.aliexpress.com/item/32972272915.html?spm=a2g0o.order_list.order_list_main.20.39bd1802vVYFzY
+  
   - M3x0.5mm spacers https://www.aliexpress.com/item/1005002715672944.html?spm=a2g0o.order_list.order_list_main.251.39bd1802vVYFzY
+  
   - Slide Switch Cap Bundle.stl
   
-<USB C PLATES>
+ USB C PLATES
   - 6 pin usb c female breakout https://www.aliexpress.com/item/1005003692747650.html?spm=a2g0o.order_list.order_list_main.256.39bd1802vVYFzY
+  
   - 8mm anti vandal switch https://www.aliexpress.com/item/1005002153423900.html?spm=a2g0o.order_list.order_list_main.22.cf1f1802g0ectW
   
-<BOTH>
+BOTH
+
   - M3 pan head screws and M3 nuts
   
   Slide switch plates designed for use with AFS/Mavercade cases.
