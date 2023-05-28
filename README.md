@@ -35,3 +35,9 @@ BOTH
   Slide switch plates designed for use with AFS/Mavercade cases.
   Test prints for slide switch caps were done in laser nylon from JLCPCB.
   When ordering plates from JLCPCB choose "Specify a location" for order number.
+
+Please remember to give credit where its due.
+
+DISCLAIMER:
+
+I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
