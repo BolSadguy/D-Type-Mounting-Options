@@ -38,6 +38,14 @@ BOTH
 
 Please remember to give credit where its due.
 
+UPDATE (2024-10-04):
+Added plates for aviator connectors GX12-5 (MadCatz and Razer pinouts) and GX16-4
+![image](https://github.com/user-attachments/assets/d7c41304-06a3-41eb-b107-5554a610a0af)
+![image](https://github.com/user-attachments/assets/85f7b737-1da5-4888-8fd3-b74970609740)
+![image](https://github.com/user-attachments/assets/818c6090-235f-4ce2-a62d-2bf4238ebdab)
+
+
+
 DISCLAIMER:
 
 I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
